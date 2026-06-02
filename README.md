@@ -1,3 +1,14 @@
+<h1 align="center">
+🚀 Building the Future, One Commit at a Time
+</h1>
+
+<p align="center">
+Software Developer • Full Stack Engineer • Java Enthusiast
+</p>
+
+<p align="center">
+Turning complex problems into elegant software solutions.
+</p>
 <div align="center">
 
 # Hi 👋 I'm Surya Teja
