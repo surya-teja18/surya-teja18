@@ -1,10 +1,8 @@
 <div align="center">
 
-# ⚔️ SURYA TEJA
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Surya%20Teja&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### CODE • BUILD • SCALE
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=800&color=00FFB3&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;Creating+Digital+Experiences;Building+Products+That+Matter;Welcome+To+My+GitHub+Universe" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+The+Future+One+Commit+At+A+Time" />
 
 </div>
 
