@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Surya Teja
+# ⚔️ SURYA TEJA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Java+Developer;Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+### CODE • BUILD • SCALE
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=800&color=00FFB3&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;Creating+Digital+Experiences;Building+Products+That+Matter;Welcome+To+My+GitHub+Universe" />
 
 </div>
 
