@@ -3,19 +3,6 @@
 # Hi 👋 I'm Surya Teja
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Java+Developer;Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-<h1 align="center">
-🚀 Building the Future, One Commit at a Time
-</h1>
-
-<p align="center">
-Software Developer • Full Stack Engineer • Java Enthusiast
-</p>
-
-<p align="center">
-Turning complex problems into elegant software solutions.
-</p>
-<div align="center">
-</div>
 
 ---
 
