@@ -3,8 +3,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SURYA%20TEJA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <br>
+### CODE • BUILD • SCALE
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=⚡+Software+Engineer;🚀+Full+Stack+Developer;💻+Java+%7C+Spring+Boot+%7C+React;🔥+Building+Products+That+Matter;🌍+Turning+Ideas+Into+Reality;⚔️+Code.+Build.+Scale.;⭐+Always+Learning+Always+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=800&color=00FFB3&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;Creating+Digital+Experiences;Building+Products+That+Matter;Welcome+To+My+GitHub+Universe" />
 
 <br><br>
 
