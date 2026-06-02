@@ -1,10 +1,14 @@
 <div align="center">
 
-# 🚀 Surya Teja
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=SURYA%20TEJA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-### Architecting Ideas Into Software
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Developer;Problem+Solver;Building+For+Impact;Learning+Never+Stops" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=⚡+Software+Engineer;🚀+Full+Stack+Developer;💻+Java+%7C+Spring+Boot+%7C+React;🔥+Building+Products+That+Matter;🌍+Turning+Ideas+Into+Reality;⚔️+Code.+Build.+Scale.;⭐+Always+Learning+Always+Improving"/>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
