@@ -148,7 +148,7 @@ Tech:
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_URL">
+<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/surya_bejawada/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
